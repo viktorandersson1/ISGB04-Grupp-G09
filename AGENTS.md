@@ -1,7 +1,7 @@
 # Projekt: labb 2 (ISGB04, grupp G09)
 
 ## Vad systemet gör
-returna 0.
+skapa verktygskvitto.
 
 ## Arkitektur
 - Moduler: `model/` (entiteter och regler, K1–K3), `logic/` (algoritm K4), `storage/` (filformat K5), `ui/` (gränssnitt K6), `tests/`.
@@ -9,8 +9,8 @@ returna 0.
 - Designen finns i `docs/design.md` (klassdiagram, modulkontrakt) och gränssnittets design i `docs/design-extern.md` (godkänd av produktägaren). Följ dem. Föreslå ändringar i stället för att avvika tyst.
 
 ## Språk och verktyg
-- Språk: Java, version 1.0. Testramverk: 1.
-- Starta: `⟨kommando⟩`. Testa: `⟨kommando⟩`. Kör testerna efter varje ändring och rapportera resultatet.
+- Språk: Java, version 27.0. Testramverk: 1.
+- Starta: `Test`. Testa: `Test`. Kör testerna efter varje ändring och rapportera resultatet.
 
 ## Regler för ändringar
 - Arbeta med en backlog-post (issue) i taget. Ändra bara filer som posten kräver.
