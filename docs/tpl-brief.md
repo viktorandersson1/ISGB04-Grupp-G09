@@ -1,4 +1,4 @@
-# TPL-brief – ⟨projektnamn⟩ (G⟨nn⟩)
+# TPL-brief – Träningsloggen (G09)
 
 Klistra in detta efter kursens startprompt till TPL (en per labb, se Canvas) när en ny TPL-tråd startas. Håll den under en sida; uppdatera efter varje sprint review.
 
